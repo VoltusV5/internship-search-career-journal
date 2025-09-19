@@ -1,2 +1,13 @@
-# internship-search-career-journal
-A personal repository for analyzing IT professions and finding internships. It contains notes, materials, and structures for choosing a career path.
+# Internship Search & Career Journal
+
+Репозиторий для систематизации знаний о поиске стажировок и выборе профессий в IT.
+Здесь собраны заметки, материалы и структуры, которые помогают:
+
+* исследовать различные IT-направления;
+* сравнивать профессии и их требования;
+* планировать поиск стажировок и карьерные шаги.
+
+
+## Цель
+
+Собрать личную базу знаний, которая поможет выстроить собственный карьерный путь в IT.
